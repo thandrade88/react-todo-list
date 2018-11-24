@@ -18,6 +18,10 @@
     "pm2": "2.1.5"
   },
   "devDependencies": {
-    "nodemon": "1.11.0"
+    "nodemon": "1.11.0",
+    "bson": "1.0.5",
+    "debug": "2.6.9",
+    "fresh": "0.5.2",
+    "mime": "1.4.1"
   }
 }
